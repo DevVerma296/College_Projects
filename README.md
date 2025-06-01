@@ -51,7 +51,9 @@ What was the highest selling category?
 
 📸 Sample Output
 
-![INSIGHTS](https://github.com/user-attachments/assets/2db232e5-a21d-4927-8e4a-a36b5952307b)
+![Dashboard](https://github.com/user-attachments/assets/2db232e5-a21d-4927-8e4a-a36b5952307b)
+
+![Sample Insights](https://github.com/user-attachments/assets/c2b40255-9adf-44c9-8b54-0918339fa0bb)
 
 📬 Contact
 
